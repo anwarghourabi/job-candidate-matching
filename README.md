@@ -19,6 +19,7 @@ job-candidate-matching/
 │   ├── 04_visualize.py              # Generate visualizations & report
 │   ├── 05_scrape_remoteok.py        # Scrape RemoteOK API
 │   ├── 06_merge_datasets.py         # Merge HF + RemoteOK
+    |___07_train_models_mlflow.py
 │   └── utils.py                     # Utility functions
 │
 ├── data/
@@ -292,3 +293,92 @@ csv_path = Path('data/raw/huggingface_salaries.csv')  # HF only
 - [x] Documentation complete
 
 ---
+
+## 📊 Week 2  Results
+🔹 Prétraitement
+
+Colonnes catégorielles → OneHotEncoder
+
+Colonnes numériques → StandardScaler
+
+Colonne texte (job_title) → TfidfVectorizer(max_features=100)
+
+Utilisation d’un ColumnTransformer pour combiner toutes les transformations et enrichir le modèle avec des features textuelles.
+
+🔹 Modèles testés
+Modèle	R² Test	CV R²
+Linear Regression	0.26	-4.97
+Random Forest	0.44	-0.15
+Gradient Boosting	0.31	-0.43
+
+✅ Meilleur modèle : Random Forest
+
+Les modèles non linéaires exploitent mieux les features TF-IDF et capturent les interactions complexes.
+
+🔹 MLflow - Suivi des expériences
+
+MLflow a permis de :
+
+Suivre les métriques : MAE, RMSE, R².
+
+Sauvegarder automatiquement les modèles et transformations.
+
+Comparer facilement plusieurs modèles via une interface web.
+
+1️⃣ Lancement de MLflow UI
+mlflow ui
+
+Accéder ensuite à : http://localhost:5000
+
+2️⃣ Aperçu de l’interface
+
+Liste des expériences : chaque exécution est enregistrée.
+
+Comparaison des modèles : R², MAE, RMSE.
+
+Visualisation des paramètres : hyperparamètres utilisés pour chaque modèle.
+
+Téléchargement des modèles pour déploiement ou tests futurs.
+
+🔹 Exemple visuel MLflow
+┌───────────────────────────── MLflow UI ─────────────────────────────┐
+│ Expérience : Job_Salary_Prediction                                   │
+├───────────────────────────── Métriques ──────────────────────────────┤
+│ Run #1  | Linear Regression | R²=0.26 | MAE=33,833 | RMSE=46,623      │
+│ Run #2  | Random Forest     | R²=0.44 | MAE=25,956 | RMSE=40,495      │
+│ Run #3  | Gradient Boosting | R²=0.31 | MAE=30,795 | RMSE=44,939      │
+└──────────────────────────────────────────────────────────────────────┘
+
+Chaque run contient le modèle sauvegardé, les métriques et les paramètres d’entraînement.
+🔹 Résultats
+
+Random Forest est le modèle le plus performant pour ce dataset.
+
+La régression linéaire devient instable avec l’ajout des features textuelles.
+
+Le dataset limité entraîne une variance élevée et un R² relativement modeste.
+
+🔹 Améliorations possibles
+
+Transformer le problème en classification de salaire (low, medium, high).
+
+Ajuster le nombre de features TF-IDF ou utiliser Word2Vec pour enrichir la représentation textuelle.
+
+Tester la régularisation (Ridge, Lasso) pour les modèles linéaires.
+
+Ajouter davantage de données pour stabiliser le modèle.
+
+Hyperparameter tuning pour Random Forest et Gradient Boosting.
+
+🔹 Exécution
+
+Pour lancer l’entraînement et le suivi MLflow :
+
+python src/train_model.py
+
+Pour ouvrir l’interface MLflow UI :
+
+mlflow ui
+🔹 Licence
+
+MIT License – libre utilisation et modification.
