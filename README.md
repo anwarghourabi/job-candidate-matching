@@ -327,7 +327,7 @@ Comparer facilement plusieurs modèles via une interface web.
 
 1️⃣ Lancement de MLflow UI
 mlflow ui
-
+```
 Accéder ensuite à : http://localhost:5000
 
 2️⃣ Aperçu de l’interface
