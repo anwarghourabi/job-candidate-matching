@@ -178,6 +178,7 @@ data analytics engineer,20000.0,entry-level,FT,PK,0,M,huggingface
 data scientist,122346.0,mid-level,FT,CH,0,L,huggingface
 computer vision engineer,10000.0,entry-level,FT,LU,100,M,huggingface
 data analytics lead,405000.0,senior,FT,US,100,L,huggingface
+<<<<<<< HEAD
 lead engineer provider engineering,,unknown,,Winter Park,100,,remoteok
 regulatory product counsel,,unknown,,,100,,remoteok
 audience writer,,unknown,,,100,,remoteok
@@ -278,3 +279,105 @@ vp national accounts,,unknown,,,100,,remoteok
 senior talent acquisition manager,,unknown,,Anywhere in the United States,100,,remoteok
 senior technical program manager infrastructure,,unknown,,United States,100,,remoteok
 web program manager,,unknown,,United States of America,100,,remoteok
+=======
+lead engineer provider engineering,69999.0,unknown,,Winter Park,100,,remoteok
+regulatory product counsel,69999.0,unknown,,,100,,remoteok
+audience writer,69999.0,unknown,,,100,,remoteok
+backend engineer consumer engineering,69999.0,unknown,,Mexico City,100,,remoteok
+desarrollador backend net etl,69999.0,unknown,,Bogota,100,,remoteok
+prompt engineer,69999.0,unknown,,"Remote, Ukraine",100,,remoteok
+information security operations engineer,69999.0,unknown,,United States,100,,remoteok
+manager sales engineering,69999.0,unknown,,UK,100,,remoteok
+security access management lead,69999.0,unknown,,United States,100,,remoteok
+associate influencer marketing,69999.0,unknown,,"New York, NY; San Francisco, CA; Los Angeles, CA; United States - Remote",100,,remoteok
+senior data engineer,69999.0,unknown,,,100,,remoteok
+principal data operations amp migration lead,69999.0,unknown,,"York, United Kingdom",100,,remoteok
+senior medical science liaison,69999.0,unknown,,,100,,remoteok
+account executive,69999.0,unknown,,,100,,remoteok
+communications specialist,69999.0,unknown,,National Capital Region,100,,remoteok
+data science intern pricing analytics,69999.0,unknown,,United States,100,,remoteok
+tech lead,69999.0,unknown,,,100,,remoteok
+director of quality performance,69999.0,unknown,,San Francisco,100,,remoteok
+technical sales manager,69999.0,unknown,,"St. Louis, MO",100,,remoteok
+big data engineer,69999.0,unknown,,,100,,remoteok
+executive director safety amp pharmacovigilance,69999.0,unknown,,Remote,100,,remoteok
+product marketing manager,69999.0,unknown,,United States,100,,remoteok
+junior product support specialist,69999.0,unknown,,"Remote, LATAM/North America",100,,remoteok
+head of professional services,69999.0,unknown,,Remote,100,,remoteok
+vp practice operations,69999.0,unknown,,,100,,remoteok
+sales development representative,69999.0,unknown,,Remote,100,,remoteok
+senior manager rfp response,69999.0,unknown,,,100,,remoteok
+community specialist i,69999.0,unknown,,Mexico,100,,remoteok
+integrated marketing manager,69999.0,unknown,,,100,,remoteok
+it support technician,69999.0,unknown,,"Remote, United States",100,,remoteok
+enterprise account executive cloud sales,69999.0,unknown,,,100,,remoteok
+senior sales development representative,69999.0,unknown,,London,100,,remoteok
+vp portfolio underwriting,69999.0,unknown,,,100,,remoteok
+sales development representative,69999.0,unknown,,Austin,100,,remoteok
+database administrator cloud,69999.0,unknown,,Dominican Republic,100,,remoteok
+csm i,69999.0,unknown,,,100,,remoteok
+staff data analyst,69999.0,unknown,,,100,,remoteok
+youtube editor freelance,69999.0,unknown,,Remote,100,,remoteok
+customer experience associate,69999.0,unknown,,Remote,100,,remoteok
+senior data scientist,69999.0,unknown,,,100,,remoteok
+director community developer advocacy,69999.0,unknown,,North America,100,,remoteok
+senior software engineer i puppet,69999.0,unknown,,,100,,remoteok
+senior manager customer operations,69999.0,unknown,,,100,,remoteok
+founding paralegal,69999.0,unknown,,,100,,remoteok
+channel business manager,69999.0,unknown,,Australia,100,,remoteok
+application engineer cnc sheet metal,69999.0,unknown,,Brazil,100,,remoteok
+customer experience representative,69999.0,unknown,,,100,,remoteok
+human resources administrative coordinator,69999.0,unknown,,"Chicago, IL",100,,remoteok
+innovation architect latam latam,69999.0,unknown,,,100,,remoteok
+business development manager,69999.0,unknown,,US Remote,100,,remoteok
+vp of sales strategic accounts,69999.0,unknown,,Boston,100,,remoteok
+security engineer,69999.0,unknown,,New York City,100,,remoteok
+staff+ software engineer observability,69999.0,unknown,,"London, UK",100,,remoteok
+senior account manager,69999.0,unknown,,New York,100,,remoteok
+senior technical program manager,69999.0,unknown,,Remote - US,100,,remoteok
+design program manager ai,69999.0,unknown,,"San Francisco, CA",100,,remoteok
+sap data migration architect,69999.0,unknown,,,100,,remoteok
+senior software engineer frontend,69999.0,unknown,,Barcelona,100,,remoteok
+supplier quality specialist,69999.0,unknown,,"Bastrop, TX",100,,remoteok
+soc analyst,69999.0,unknown,,,100,,remoteok
+lead digital media buyer latin america,69999.0,unknown,,Heredia,100,,remoteok
+licensed life insurance agent position with growth,69999.0,unknown,,"Kent, Washington",100,,remoteok
+staff product manager personalization foundations,69999.0,unknown,,"New York City, NY",100,,remoteok
+permit specialist work,69999.0,unknown,,Philippines,100,,remoteok
+manager customer success operations,69999.0,unknown,,,100,,remoteok
+content manager,69999.0,unknown,,,100,,remoteok
+principal security engineer,69999.0,unknown,,,100,,remoteok
+state engagement manager,69999.0,unknown,,El Segundo,100,,remoteok
+staff product security engineer customer platform,69999.0,unknown,,,100,,remoteok
+legal operations specialist,69999.0,unknown,,USA,100,,remoteok
+security operations engineer,69999.0,unknown,,Remote - EMEA,100,,remoteok
+senior software engineer trading infrastructure,69999.0,unknown,,New York City / San Francisco / Los Angeles / Remote,100,,remoteok
+software engineer apps,69999.0,unknown,,Bengaluru,100,,remoteok
+associate manager digital media,69999.0,unknown,,"Chicago, Illinois, United States",100,,remoteok
+senior support operations manager,69999.0,unknown,,,100,,remoteok
+director emea marketing,69999.0,unknown,,London,100,,remoteok
+marketing associate,69999.0,unknown,,"Boston, MA",100,,remoteok
+senior client success manager,69999.0,unknown,,Remote - US East,100,,remoteok
+senior paid search analyst,69999.0,unknown,,"Chicago, Illinois, United States; Nashville, Tennessee, United States; Remote",100,,remoteok
+customer success manager strategic,69999.0,unknown,,Boston,100,,remoteok
+senior devsecops platform security engineer,69999.0,unknown,,,100,,remoteok
+senior product manager connected care,69999.0,unknown,,,100,,remoteok
+associate therapist fully,69999.0,unknown,,North Carolina,100,,remoteok
+senior cybersecurity engineer,69999.0,unknown,,"Washington, DC",100,,remoteok
+customer service hospitality reservations,69999.0,unknown,,Florida,100,,remoteok
+senior systems engineer,69999.0,unknown,,Worldwide,100,,remoteok
+fullstack automation engineer delivery automation team,69999.0,unknown,,,100,,remoteok
+founding marketer,69999.0,unknown,,Japan,100,,remoteok
+software development engineer i,69999.0,unknown,,India,100,,remoteok
+business development representative uk eu,69999.0,unknown,,,100,,remoteok
+senior software engineer web,69999.0,unknown,,Asia,100,,remoteok
+data analyst 3,69999.0,unknown,,Remote,100,,remoteok
+developer relations engineer,69999.0,unknown,,,100,,remoteok
+forward deployed engineer devops,69999.0,unknown,,New York,100,,remoteok
+business development representative,69999.0,unknown,,United States,100,,remoteok
+senior account manager feb 2026,69999.0,unknown,,California,100,,remoteok
+vp national accounts,69999.0,unknown,,,100,,remoteok
+senior talent acquisition manager,69999.0,unknown,,Anywhere in the United States,100,,remoteok
+senior technical program manager infrastructure,69999.0,unknown,,United States,100,,remoteok
+web program manager,69999.0,unknown,,United States of America,100,,remoteok
+>>>>>>> dc9e6fb (mlflowweek2)

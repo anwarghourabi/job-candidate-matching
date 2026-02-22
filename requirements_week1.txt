@@ -11,6 +11,11 @@ plotly>=5.18.0
 # Machine Learning & NLP
 scikit-learn>=1.3.0
 nltk>=3.8.0
+<<<<<<< HEAD
+=======
+mlflow
+
+>>>>>>> dc9e6fb (mlflowweek2)
 
 # Dataset Loading
 datasets>=2.14.0

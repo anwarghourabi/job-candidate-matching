@@ -1,0 +1,23 @@
+artifact_path: file:///C:/Users/Lenovo/Downloads/job-candidate-matching-main/job-candidate-matching-main/mlruns/1/models/m-abe3e394e5834147a8f7ece42db4b296/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.10.0
+model_id: m-abe3e394e5834147a8f7ece42db4b296
+model_size_bytes: 4216
+model_uuid: m-abe3e394e5834147a8f7ece42db4b296
+prompts: null
+run_id: 250b8f756d0c4ebb833e1e7db2f5a483
+utc_time_created: '2026-02-22 22:17:55.450341'

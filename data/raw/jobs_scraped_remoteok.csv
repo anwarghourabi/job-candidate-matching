@@ -1,4 +1,5 @@
 job_title,company,location,tags,salary,source
+<<<<<<< HEAD
 Lead Engineer Provider Engineering,"Humata Health, Inc",Winter Park,"technical, support, software, growth, code, cloud, postgresql, typescript, api, lead, junior, operational, go, health, healthcare, engineer, engineering, backend",,RemoteOK
 Regulatory & Product Counsel,Lucid Software,,"dev, software, cloud, leader, legal, digital nomad",,RemoteOK
 Audience Writer,ProPublica,,"writer, manager, full-time",,RemoteOK
@@ -99,3 +100,100 @@ VP National Accounts,"Integrated Specialty Coverages, LLC",,"growth, management,
 Senior Talent Acquisition Manager,Greenhouse,Anywhere in the United States,"manager, saas, senior, go",,RemoteOK
 Senior Technical Program Manager Infrastructure,Planet,United States,"manager, technical, software, senior",,RemoteOK
 Web Program Manager,Huntress,United States of America,"web, manager, saas, security, game, senior, operations, go",,RemoteOK
+=======
+Nurse Practitioner Physician Assistant,Ennoble Care,"Trenton, New Jersey","assistant, consult, testing, mobile, operations, go, health, non tech",,RemoteOK
+Data Analyst II,ComputerCare,Remote,"analyst, system, python, technical, support, excel",,RemoteOK
+Talent Acquisition Partner,vCluster Labs,Munich,"consultant, architect, technical, support, developer, investor, strategy, analytics, health, recruiting, engineering, digital nomad",,RemoteOK
+Vice President of Engagement Transformation,Solera Health,,"architect, growth, leader, strategy, management, medical, health, executive",,RemoteOK
+Director AI Engineering,Lantern,USA,"director, content, engineering",,RemoteOK
+Full Stack Software Engineer II,Technergetics,Remote,"software, hr, system, director, code, engineer",,RemoteOK
+Senior Product Manager Platform Life Sciences,SciLeads,,"manager, saas, support, leader, strategy, lead, senior, sales, non tech",,RemoteOK
+Customer Success Manager,GoodTime,Remote,"manager, support, leader, recruiting, engineering",,RemoteOK
+Business Development Manager Vocational,Geotab,,"manager, leader, operations, analytics",,RemoteOK
+Legal Project & Operations Manager,Cohere Health,United States,"manager, system, training, support, growth, financial, management, lead, operations, operational, legal, medical, healthcare",,RemoteOK
+Regional Account Executive,AMAROK,Oakland,"security, leader, executive",,RemoteOK
+Data Scientist,Solera Health,,"design, python, support, medical, health, engineering, digital nomad",,RemoteOK
+Software Engineer,Galileo Financial Technologies,Seattle,"software, code, finance, financial, banking, excel, analytics, health, engineer, engineering",,RemoteOK
+Senior Partnerships Manager Spain Italy,Parloa,Madrid,"manager, growth, management, lead, senior, marketing, sales",,RemoteOK
+Senior People Operations Partner,Adyen,San Francisco,"design, hr, system, technical, support, growth, management, lead, senior, operations, operational, analytics, digital nomad",,RemoteOK
+3D Designer,Exadel,"Brazil, Poland","3d, design, designer, technical, support, marketing, engineering, digital nomad",,RemoteOK
+Manager of Sales PerfectScale North America,DoiT,,"manager, growth, cloud, microsoft, management, sales, engineering",,RemoteOK
+Engineer,ScienceLogic,"Reston, VA","developer, software, testing, test, cloud, senior, engineer, engineering, digital nomad",,RemoteOK
+Division Manager KY WV,Juul Labs,,"manager, growth, director, adult, leader, strategy, lead, operations, sales",,RemoteOK
+College Admissions Counselor,Empowerly,Remote,"students, support, testing, scrum, financial, education, internship, part-time, non tech",,RemoteOK
+Partner Success Manager,MoonPay,,"manager, web3, crypto, system, training, technical, support, software, voice, financial, operations, operational, excel, health, healthcare",,RemoteOK
+Finance Officer,GOAL Uganda,Kampala,"system, coordinator, support, financial, finance, strategy",,RemoteOK
+IT Officer,GOAL Uganda,Kabarole,"system, security, travel, strategy",,RemoteOK
+SAP WalkMe Development Senior Consultant,New Era Technology,India,"consultant, consulting, senior",,RemoteOK
+Clinical Informaticist,MCG Health,Remote,"technical, lead, content, medical, health, healthcare",,RemoteOK
+Administrative Business Partner,OpenAI,San Francisco,"security, support, growth, travel, management, operations, operational, executive",,RemoteOK
+Technical Product Manager,Lavendo,San Francisco,"manager, system, technical, growth, voice, video, api, management, lead, engineering",,RemoteOK
+UI UX Designer for Career Services Company,Paired,,"ui, ux, design, founder, designer, technical, operations, operational, marketing, sales, go, recruiting, digital nomad",,RemoteOK
+Engineering Manager,Sharebite,Remote,"manager, design, technical, support, software, growth, management, lead, engineer, engineering, digital nomad",,RemoteOK
+Software Engineer,Lumin Digital,,"software, technical, code, web, scrum, engineer, engineering",,RemoteOK
+Technical Architect AUS Company,Anypear,,"architect, design, consultant, technical, management, recruitment, digital nomad",,RemoteOK
+Senior Full Stack Software Developer,Judi Health,,"developer, software, design, system, full-stack, management, senior, medical, health, healthcare, digital nomad",,RemoteOK
+Senior Engineering Manager Cloud Enablement,Temporal Technologies,United States,"manager, system, technical, developer, software, code, cloud, lead, senior, engineering, digital nomad",,RemoteOK
+Social Media Lead,OpenSea,New York CIty,"crypto, copywriter, strategy, lead, content, analytics, health, full-time, non tech",,RemoteOK
+SaaS Configuration Analyst,Coderio,,"saas, analyst, system, technical, support, software, test, growth, lead, junior, engineering",,RemoteOK
+Sales Systems Engineer,Veeam Software,"San Jose, CA, USA","dev, technical, leader, sales, go, engineer, digital nomad",,RemoteOK
+Manager Paid Search,WPP Media,DÃ¼sseldorf,"manager, health, non tech",,RemoteOK
+Engineering Manager ML Platform and Infrastructure,Applied Intuition,Sunnyvale,"manager, lead, engineering",,RemoteOK
+Sr Director Data Engineering & Analytics,Arcadia,United States,"director, leader, management, lead, analytics, engineering, educational",,RemoteOK
+CX Specialist,Too Good To Go,Toronto,"golang, health, educational, non tech",,RemoteOK
+Real Estate Investor â Expert AI Trainer,Mentis AI,,"trainer, training, financial, investment, investor, finance, analytics, non tech",,RemoteOK
+C++ Developer,Magic Media,,"developer, python, vfx, training, game, technical, support, programmer, software, growth, video, c++, content, go, engineering, full-time, digital nomad",,RemoteOK
+Technical Lead DevOps,Nearform,Italy,"technical, devops, lead, senior, engineering",,RemoteOK
+Data & Market Insights Associate,Elemental Terra,,"other, crypto, finance, web3, bitcoin, education, blockchain, defi",,RemoteOK
+Marketing Operations Manager,"Chartbeat, Inc.",,"manager, strategy, lead, operations, marketing, analytics, non tech",,RemoteOK
+2D Game Design Intern,Playpower Labs,,"design, game, ui, animation, content, educational, internship, digital nomad",,RemoteOK
+Senior Security Engineer,You.com,San Francisco,"security, software, senior, engineer, engineering",,RemoteOK
+QA Engineer,Mex Digital FZE ,Dubai,"cryptocurrency, technical, developer, testing, test, growth, qa, financial, fintech, api, reliability, engineer, digital nomad",,RemoteOK
+Mobile Growth Manager Performance Marketing + UA,Phiture GmbH,Spain,"growth, manager, consultancy, test, mobile, marketing, analytics",,RemoteOK
+DevOps Engineer,InfStones,Texas,"amazon, web3, system, security, support, software, testing, test, code, qa, devops, serverless, cloud, git, node, administrator, management, reliability, engineer, linux, full-time",,RemoteOK
+Job 27573 Mid Data Developer Brasil,CI&amp;T,Brazil,"developer, cloud, digital nomad",,RemoteOK
+Job 27611 MidSenior Data Developer Brasil,CI&amp;T,Brazil,"developer, design, unity, digital nomad",,RemoteOK
+Job 27602 Mid level Developer NodeJS Brazil,CI&amp;T,Brazil,"developer, javascript, nodejs, cloud, api, digital nomad",,RemoteOK
+SpÃ©cialiste en acquisition de talents Pipeline & Sourcing,Workleap,Canada,"microsoft, leader",,RemoteOK
+Social Commerce Strategist,Power Digital,Canada,"consulting, strategist, growth, investment, content, marketing",,RemoteOK
+Mid Level DevOps Engineer CI CD Optimization,Ubiminds,Remote,"design, hr, system, security, docker, recruiter, support, developer, software, growth, code, devops, management, reliability, engineer, engineering, full-time, digital nomad",,RemoteOK
+Director Asset Protection NAM Retail,ARC&#39;TERYX,"North Vancouver, BC (Corporate)","director, security, training, support, growth, financial, investment, leader, lead, operations, health, ecommerce",,RemoteOK
+HR Project Coordinator,Xsolla,Serbia,"hr, game, coordinator, support, financial, video, operational, recruitment, non tech",,RemoteOK
+Engineering Manager Delivery,Mechanical Orchard,United Kingdom (Remote),"manager, system, technical, support, software, growth, travel, operational, engineer, engineering",,RemoteOK
+Senior Marketing Science Strategist,Power Digital,Brazil,"consulting, strategist, testing, growth, investment, content, senior, marketing",,RemoteOK
+Director Global Consulting & System Integrator Partnerships,Ada,,"system, consulting, director, growth, management, lead",,RemoteOK
+Security Specialist,Workwize,,"security, saas",,RemoteOK
+Backend Engineer,dv01,,"saas, financial, investment, api, analytics, engineer, backend",,RemoteOK
+QA Document Control Specialist,Apogee Therapeutics,Remote,"qa, engineering",,RemoteOK
+Workday Enterprise Project Manager,CompassX Group,PST timezone,"manager, hr, system, consulting, technical, testing, financial, strategy, management, lead, executive",,RemoteOK
+Coupa Pay Customer Success Manager 11184,"Coupa Software, Inc.","Los Angeles, California, United States","manager, consulting, technical, software, growth, financial, investment, finance, bank, strategy, management, lead, sales, recruitment",,RemoteOK
+Research Data Scientist,Swayable,Remote,"python, growth, director, strategy, content, executive",,RemoteOK
+Project Coordinator,Caylent,BRAZIL,"amazon, security, technical, coordinator, web, scrum, cloud, management, senior, engineering, recruitment",,RemoteOK
+Regional Account Executive,Oasis Security,,"infosec, system, security, management, sales, executive",,RemoteOK
+Senior Software Engineer Data Observability,DataHub,Palo Alto,"software, design, saas, system, architect, technical, cloud, lead, senior, operational, reliability, engineer, engineering, digital nomad",,RemoteOK
+US Client Accounting Advisor,Cloud Accountant Staffing,,"accounting, training, support, bookkeeping, financial, cloud, microsoft, operational, full-time, part-time",,RemoteOK
+Marketing Specialist,Vitable Health,Remote,"content, operational, marketing, sales, medical, health, healthcare, non tech",,RemoteOK
+Enterprise Customer Success Manager,ZipRecruiter,,"manager, ios, support, mobile, strategy, sales, recruiting, recruitment, non tech",,RemoteOK
+Portfolio Manager,Engineers Gate,,"manager, support, test, code, financial, investment, strategy, operational, engineering",,RemoteOK
+Associate Strategy Analyst,Blytheco,Remote U.S.A.,"analyst, ceo, software, leader, strategy",,RemoteOK
+Business Development Representative,CrowdRiff,Remote,"saas, teach, consult, support, software, travel, marketing, sales, recruitment",,RemoteOK
+Senior Technical Consultant Charles River Everywhere,FormativGroup,,"consultant, system, technical, support, management, senior, operations, operational",,RemoteOK
+Talent Acquisition Specialist Early Pipeline & Sourcing,Workleap,Canada,"hr, microsoft, recruitment",,RemoteOK
+Sales Development Representative,Unlimit,,"crypto, support, financial, fintech, sales, go, recruiting",,RemoteOK
+KIP Summer 2026 Research Assistant Finance Insurance &amp; Trade Policy R Street Institute,Stand Together,"Washington, DC","assistant, training, support, financial, finance, excel, internship, full-time, part-time, non tech",,RemoteOK
+Senior Content Program Strategist,Pulley,Remote,"system, strategist, management, content, senior, marketing",,RemoteOK
+Software Engineer,itD Tech,Arizona,"software, design, python, training, support, engineer, digital nomad",,RemoteOK
+Senior Manager Digital Strategy,Monks,,"manager, strategy, senior",,RemoteOK
+Payroll Specialist Lead Germany,Remote - Referral Board,,"payroll, hr, software, management, lead, operations, excel",,RemoteOK
+Data Entry Clerk,Sensor Tower,Seoul,"manager, video, bank, operations, excel, recruitment, non tech",,RemoteOK
+Product & Application Security Engineer,Veeam Software,United States,"security, dev, leader, senior, go, engineer, digital nomad",,RemoteOK
+Personality & Behavior Tutor,xAI,"Palo Alto, CA","tutor, training, technical, support, software, excel, engineering",,RemoteOK
+Senior Data Engineer,Exadel,"Brazil, Bulgaria, Colombia, Georgia, Lithuania, Poland, Romania","jira, salesforce, code, web, education, mobile, management, senior, operations, analytics, health, engineer, engineering",,RemoteOK
+Automation Sales Manager,Formic,"San Francisco || Sacramento, CA","manager, support, growth, operational, sales, engineering",,RemoteOK
+Bilingual Legal Assistant,Distro,Buenos Aires,"assistant, legal, non tech",,RemoteOK
+Robotics Field Service Engineer,Formic,"Boston, MA","technical, support, robotics, operations, operational, engineer, engineering",,RemoteOK
+Senior Lead Product Designer Operations,Monzo,Cardiff London or  UK,"design, designer, financial, education, bank, lead, senior, operations, engineering, digital nomad",,RemoteOK
+Data Analyst,Valtech,Brazil,"analyst, growth",,RemoteOK
+QA Engineer,Mex Digital FZE ,Dubai,"cryptocurrency, technical, developer, testing, test, growth, qa, financial, fintech, api, reliability, engineer, digital nomad",,RemoteOK
+Specialist Business Development and Projects,Stranger Soccer,,"support, travel, mobile, sales, executive",,RemoteOK
+>>>>>>> dc9e6fb (mlflowweek2)

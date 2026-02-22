@@ -19,7 +19,10 @@ job-candidate-matching/
 │   ├── 04_visualize.py              # Generate visualizations & report
 │   ├── 05_scrape_remoteok.py        # Scrape RemoteOK API
 │   ├── 06_merge_datasets.py         # Merge HF + RemoteOK
+<<<<<<< HEAD
     |___07_train_models_mlflow.py
+=======
+>>>>>>> dc9e6fb (mlflowweek2)
 │   └── utils.py                     # Utility functions
 │
 ├── data/
@@ -293,6 +296,7 @@ csv_path = Path('data/raw/huggingface_salaries.csv')  # HF only
 - [x] Documentation complete
 
 ---
+<<<<<<< HEAD
 
 ## 📊 Week 2  Results
 🔹 Prétraitement
@@ -382,3 +386,5 @@ mlflow ui
 🔹 Licence
 
 MIT License – libre utilisation et modification.
+=======
+>>>>>>> dc9e6fb (mlflowweek2)
